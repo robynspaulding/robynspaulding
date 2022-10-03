@@ -1,9 +1,10 @@
-#Hello!
+<img src="images/World.png" width=500 align=center>
 
-I'm a web developer, a mom, a part time Yoga teacher.
 
-I have experience working with Ruby on Rails and ... 
-Prefered languages: Ruby and JavaScript
+I'm a web developer, a mom, a part time Yoga teacher
+
+
+Reach out on social media!
 
 
 
