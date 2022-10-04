@@ -16,5 +16,6 @@ Reach out on social media!
 <a href="https://m.me/robyn.morris.3382"><img src="images/facebook.png" style="width:60px;height=60px;"></a>
 
 <img src="images/yoga.jpeg" width=300; align=center>    <img src="images/diver.jpeg" height=300; align=center>
+                        <img src="images/coding.jpeg" width=300; align=center>
 
 
