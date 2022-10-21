@@ -3,7 +3,7 @@
 I'm a brand new Software Engineer working toward Full Stack certification.<br />
 Prefered 
   Languages: Ruby, JavaScript, HTML, CSS<br />
-  Frameworks: Ruby on Rails, Vue.js, Bootstrap<br /> 
+  Frameworks: Ruby on Rails, React.js, Bootstrap<br /> 
   Databases/Libraries/Tools: Postgres, APIs, Git, GitHub<br />
 I expect to complete my program on November 18, 2022! :mortar_board:	
 </span>
