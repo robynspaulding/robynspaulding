@@ -1,11 +1,11 @@
 <img src="images/World.png" width=1200; height=200; align=center>
 <span style=font-size:100px">
-I'm a brand new Software Engineer with certification in Full Stack from Actualize Coding Bootcamp.<br />
+I'm a brand new software engineer with certification in Full Stack Development from Actualize Coding Bootcamp.<br />
 Prefered 
   Languages: Ruby, JavaScript, HTML, CSS<br />
   Frameworks: Ruby on Rails, React.js, Bootstrap<br /> 
   Databases/Libraries/Tools: Postgres, APIs, Git, GitHub<br />
-I copleted my program on November 18, 2022! :mortar_board:	
+I completed my program on November 18, 2022! :mortar_board:	
 </span>
 I am also a mom, yoga instructor, scuba diver, avid reader of fiction and a wannabe childrens book author. 
 </p>
