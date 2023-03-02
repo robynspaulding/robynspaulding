@@ -17,8 +17,8 @@ I am also a mom, yoga instructor, scuba diver, avid reader of fiction and a wann
 Reach out on social media!
 
 <a href="https://www.linkedin.com/in/robyn-spaulding"><img src="images/LinkedIn.png" style="width:75px"></a>
-<a href="https://github.com/robynspaulding"><img src="images/github.png" style="width:75px"></a>
-<a href="https://twitter.com/RobynSp27"><img src="images/twitter.png" style="width:75px"></a>
+<a href="https://github.com/robynspaulding"><img src="images/GitHub.png" style="width:75px"></a>
+<a href="https://twitter.com/RobynSp27"><img src="images/Twitter.png" style="width:75px"></a>
 <a href="https://m.me/robyn.morris.3382"><img src="images/Facebook.png" style="width:75px"></a>
 
 
