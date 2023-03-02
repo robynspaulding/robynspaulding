@@ -3,9 +3,12 @@
 </p>
 <p align="center">
 <span style=font-size:100px">
-I'm a software engineer certified in Full Stack Development who loves learning, experimenting and creating cool stuff.<br />
-Tech I Work with
+<h3> I'm a software engineer certified in Full Stack Development who loves learning, experimenting and creating cool stuff. </h3> <br />
+
+
+
 <p align="center">
+                 Tech I work with <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height=80 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=80 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height=80/>
@@ -16,9 +19,9 @@ Tech I Work with
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=80/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=80 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height=80 />
-
+</p>
 <p align="center">       
-Reach out if you want to connect and code!
+I'd love to hear from you!
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/robyn-spaulding"><img src="images/LinkedIn.png" style="width:50px"></a>
@@ -29,10 +32,10 @@ Reach out if you want to connect and code!
 </span>
 </p>
 <p align="center">
-I am also a mom, yoga instructor, scuba diver, avid reader of fiction and aspiring childrens book author. 
+<h3>I am also a mom, yoga instructor, scuba diver, avid reader of fiction and aspiring childrens book author. </h3>
 </p>
 
-<p align="center">x
+<p align="center">
 <img src="images/mom.avif" width=100 />   <img src="images/yoga.jpeg" width=100 />    <img src="images/scuba.jpeg" height=100 />   <img src="images/coding.jpeg" width=100 />
 </p>          
        
