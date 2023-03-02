@@ -11,11 +11,11 @@ Prefered
 </span>
 </p>
 <p align="center">
-I am also a mom, yoga instructor, scuba diver, avid reader of fiction and a wannabe childrens book author. 
+I am also a mom, yoga instructor, scuba diver, avid reader of fiction and aspiring childrens book author. 
 </p>
 
 <p align="center">
-<img src="images/yoga.jpeg" width=200 />    <img src="images/diver%20Small.jpeg" height=200 />   <img src="images/coding.jpeg" width=200 />
+<img src="images/mom.avif" width=200 />   <img src="images/yoga.jpeg" width=200 />    <img src="images/diver%20Small.jpeg" height=200 />   <img src="images/coding.jpeg" width=200 />
 </p>          
        
 <p align="center">       
